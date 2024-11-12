@@ -16,7 +16,7 @@ this site aims to give users a platform to upload and share their most beloved a
 
 website found in Github page:
 
-[Github page](https://github.com/jone-dejesus/se_project_spots)
+[Github page](https://jone-dejesus.github.io/se_project_spots/index.html)
 
 Figma project can be found here:
 
