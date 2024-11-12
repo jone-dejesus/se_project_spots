@@ -21,3 +21,5 @@ website found in Github page:
 Figma project can be found here:
 
 [Figma sprint 3](https://www.figma.com/design/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project%3A-Spots?node-id=0-1&node-type=canvas&t=lKykWuRVgFPpKC0i-0)
+
+## Video presentation can be found [here](https://drive.google.com/file/d/1a5QiL2m253gRy5VydierdwwH7KN6BbLM/view?usp=drive_link)
