@@ -45,8 +45,9 @@
 .profile__edit-button {
   display: flex;
   column-gap: 8px;
-  margin: 12px 0 auto;
-  color: rgba(33, 33, 33, 0.7);
+  margin: auto 0 0;
+  color: rgba(33, 33, 33);
+  opacity: 0.7;
   width: 107.34px;
   height: 16px;
   font-size: 16px;
@@ -54,10 +55,10 @@
   font-weight: 500;
   padding: 0;
   border: 0;
-  background-color: #fcf5e5;
+  background-color: transparent;
 }
 .profile__edit-button:hover {
-  color: rgba(33, 33, 33, 1);
+  opacity: 1;
 }
 .profile__edit-button-icon {
   margin: 0;
@@ -73,9 +74,10 @@
   font-size: 16px;
   line-height: 8px;
   border-radius: 8px;
+  border: 0;
 }
 .profile__add-button:hover {
-  background-color: rgba(33, 33, 33, 0.8);
+  opacity: 0.8;
 }
 .profile__add-button-icon {
   margin: 0 12px 0 0;
