@@ -68,12 +68,16 @@
 .modal__submit-btn {
   color: rgba(252, 245, 229, 1);
   width: 156px;
-  padding: 18px 0;
+  padding: 18px 18px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1;
   border-radius: 8px;
   background-color: rgba(33, 33, 33, 1);
+}
+
+.modal__submit-btn:hover {
+  cursor: pointer;
 }
 .modal__input {
   padding: 16px 12px;
@@ -93,7 +97,7 @@
 
 @media screen and (max-width: 627px) {
   .modal {
-    padding: 10px0 10px;
+    padding: 10px 10px;
   }
   .modal__container {
     padding: 12px;
@@ -113,5 +117,11 @@
 
   .modal__submit-btn {
     width: 100%;
+  }
+  .modal__container {
+    max-width: 300px;
+  }
+  .modal__input {
+    font-size: 16px;
   }
 }
